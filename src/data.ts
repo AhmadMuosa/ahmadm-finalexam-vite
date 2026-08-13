@@ -1,6 +1,6 @@
 export const EXAM_INFO = {
   title: "Final Exam",
-  studentName: "Your Name",
+  studentName: "Ahmad Muosa",
   college: "Sheridan College",
   courseName: "SYST24444 Mobile Web-Based Application Development",
 }
