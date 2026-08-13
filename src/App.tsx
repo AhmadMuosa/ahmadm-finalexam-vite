@@ -66,7 +66,7 @@ function HomePage() {
           }}
         >
           <img
-            src="/college.jpg"
+            src="src/college.jpg"
             alt="Sheridan College"
             style={{
               maxWidth: "100%",
